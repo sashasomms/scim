@@ -1,0 +1,138 @@
+@import url('//fonts.googleapis.com/css?family=Tangerine|Raleway:300|Josefin+Sans:300|Merriweather|Montserrat|News+Cycle');
+/* LINKS TO GOOGLE FONTS */
+
+body
+{
+  background-color: white;
+  color: black;
+}
+
+
+
+/* Register fonts */
+
+@font-face
+{
+  font-family: herolight;
+  src: url(fonts/HeroLight.otf);
+}
+
+
+
+#line{
+    border-bottom: 1px #424242 solid;
+    overflow: visible;
+    height: 14px;
+    margin: 15px 0 10px 0;
+    font-family: "Josefin Sans", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, "Lucida Sans", "Arial Narrow", Arial, "Lucida Grande", sans-serif;
+    /*font-family:code;*/
+    text-transform: uppercase;
+    font-size: 20pt;
+    font-weight:100;
+}
+#line span{
+    background-color: white;
+    padding: 0 5px 0 0;
+}
+
+
+
+
+#wrap {
+    text-align: center;
+    width: 110vh;
+}
+
+#content {
+    display: inline-block;
+    text-align: left;
+}
+
+
+
+
+/* Set up classes of font settings, etc. to apply to text with just */
+
+
+/* TEXT FORMATTING */
+name {
+    font-family: "Montserrat";
+    font-size: 22pt;
+}
+menutext {
+    font-family: "News Cycle";
+    font-size: 15pt;
+    text-transform: uppercase;
+}
+medium {
+    font-family: "Merriweather";
+    font-size: 10pt;
+}
+smalltext {
+    font-family: "Josefin Sans";
+    font-size: 12pt;
+
+}
+sechead {
+    font-family: "News Cycle";
+    /*font-family:code;*/
+    text-transform: uppercase;
+    font-size: 13pt;
+}
+
+
+/* Set up classes of font settings, etc. to apply to text with just, e.g., <menu> */
+
+
+
+/* H1 HEADERS WITH LINES  */
+h1 {
+    overflow: hidden;
+    text-align: center;
+    font-family: "News Cycle";
+    /*font-family:code;*/
+    text-transform: uppercase;
+    font-size: 12pt;
+}
+h1:before,
+h1:after {
+    background-color: black;
+    content: "";
+    display: inline-block;
+    height: .8px;
+    position: relative;
+    vertical-align: middle;
+    width: 50%;
+}
+h1:before {
+    right: 1.0em;
+    margin-left: -50%;
+}
+h1:after {
+    left: 1.0em;
+    margin-right: -50%;
+}
+
+
+
+
+/* BULLETS */
+ul.a {
+  list-style-type:disc;
+}
+
+
+/* LINKS */
+a:link {color: #909090; text-decoration:none;}      /* unvisited link */
+a:visited {color: #909090; text-decoration:none;}  /* visited link */
+a:hover {color:#008B8B;}  /* mouse over link */
+a:active {color:#008B8B;}  /* selected link */
+
+
+hr {
+    height: 1px;
+    border: .2px solid #BDBDBD;
+    margin: 0 0 3px 0;
+    padding: 0 0 0 0;
+    background-color: #BDBDBD;
+}
