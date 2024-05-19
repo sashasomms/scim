@@ -5,7 +5,10 @@
 
 Imagine feeling intense stress: palms sweaty, heart racing, breathing shallow. Sensations of the body often come to the forefront when describing experiences of emotion or stress, yet these physiological changes are separate from the subjective ‘feeling’ of these states that we experience mentally. This study focused on the relationship between physiological and mental states during stress.
 
-This study was conducted at the University of Wisconsin - Madison from 2020-2023, led by Sasha Sommerfeldt as part of her doctoral dissertation (which you can review for more details on methods: https://digital.library.wisc.edu/1711.dl/EVOCDWJXBT2JU8L)
+This study was conducted at the University of Wisconsin - Madison from 2019-2023, led by Sasha Sommerfeldt as part of her doctoral dissertation (which you can review for more details on methods: https://digital.library.wisc.edu/1711.dl/EVOCDWJXBT2JU8L), and assisted by around 50 amazing students over the years. It builds on earlier work with data from the Mid-Life in the United States Study (https://journals.sagepub.com/doi/pdf/10.1177/0956797619849555; midus.wisc.edu). 
+
+Additional information and study materials available on the Open Science Framework: https://osf.io/r2wmv/wiki/home/
+
 
 **Participants**
 
