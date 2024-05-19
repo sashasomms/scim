@@ -1,4 +1,4 @@
-**Stress-Physiology Coherence, Interoception, and Mindfulness (SCIM)**
+**Code supporting the Stress-Physiology Coherence, Interoception, and Mindfulness (SCIM) study**
 ----------------------------------------------------------------------
 
 **Brief Overview of Study:**
